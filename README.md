@@ -1,6 +1,6 @@
 ![USACO Guide](/public/assets/banner-image-big.jpg)
 
-# USACO Guide
+# USACO Guide  
 
 A free collection of curated, high-quality resources to take you from Bronze to
 Platinum and beyond.
